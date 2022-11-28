@@ -132,4 +132,4 @@ setTimeout(function () {
       'use strict'
       $.MainApp.init()
     })(window.jQuery)
-}, 10)
+}, 1000)
